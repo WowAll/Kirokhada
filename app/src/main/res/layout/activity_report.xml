@@ -45,7 +45,7 @@
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="220dp"
-        android:background="@drawable/btn_pastelblue"
+        android:background="@drawable/btn_pastelpurple"
         android:textColor="@color/colorWhite"
         android:text="Back" />
 
